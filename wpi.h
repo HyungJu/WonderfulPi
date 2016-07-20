@@ -1,4 +1,5 @@
 #include <stdio.h>
+typedef double wpi;
 double wpi_get(int digits) {
   
   int i,m,s;
